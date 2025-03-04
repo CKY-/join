@@ -2,7 +2,7 @@
 - Download joinChat.zip from below
 - Navigate to `%AppData%\Firebot\v5\profiles\_profile_\scripts` where `_profile_` is the firebot profile that is to use the script
 
-- Extract the downloaded zip into newly created folder
+- Extract the downloaded zip into the firebot scripts folder
 - Within Firebot navigate to Settings -> Scripts
 - Turn Custom Scripts On
 - Under Startup Scripts click Manage Startup Scripts
