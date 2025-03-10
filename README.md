@@ -1,5 +1,5 @@
 # How to install:
-- Download joinChat.zip from below
+- Download joinChat.zip from below via raw veiw
 - Navigate to `%AppData%\Firebot\v5\profiles\_profile_\scripts` where `_profile_` is the firebot profile that is to use the script
 
 - Extract the downloaded zip into the firebot scripts folder
